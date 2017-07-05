@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<iata>
+    <iata_aircraft_codes>
+    	<code>100</code>
+        <aircraft>Fokker 100 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>141</code>
+        <aircraft>BAe 146-100 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>142</code>
+        <aircraft>BAe 146-200 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>143</code>
+        <aircraft>BAe 146-300 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>146</code>
+        <aircraft>BAe 146 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>14F</code>
+        <aircraft>BAe 146 Freighter (-100/200/300QT & QC) </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>14X</code>
+        <aircraft>BAe 146 Freighter (-100QT & QC) </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>14Y</code>
+        <aircraft>BAe 146 Freighter (-200QT & QC) </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>14Z</code>
+        <aircraft>BAe 146 Freighter (-300QT & QC) </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>310</code>
+        <aircraft>Airbus A310 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>312</code>
+        <aircraft>Airbus A310-200 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>313</code>
+        <aircraft>Airbus A310-300 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>318</code>
+        <aircraft>Airbus A318 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>319</code>
+        <aircraft>Airbus A319 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>31F</code>
+        <aircraft>Airbus A310F </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>31X</code>
+        <aircraft>Airbus A310-200F </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>31Y</code>
+        <aircraft>Airbus A310-300F </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>320</code>
+        <aircraft>Airbus A320-100/200 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>321</code>
+        <aircraft>Airbus A321-100/200 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>32A</code>
+        <aircraft>Airbus A320 (sharklets) </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>32B</code>
+        <aircraft>Airbus A321 (sharklets) </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>32C</code>
+        <aircraft>Airbus A318 (sharklets) </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>32D</code>
+        <aircraft>Airbus A319 (sharklets) </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>330</code>
+        <aircraft>Airbus A330 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>332</code>
+        <aircraft>Airbus A330-200 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>333</code>
+        <aircraft>Airbus A330-300 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>33F</code>
+        <aircraft>Airbus A330 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>33X</code>
+        <aircraft>Airbus A330-200 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>340</code>
+        <aircraft>Airbus A340 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>342</code>
+        <aircraft>Airbus A340-200 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>343</code>
+        <aircraft>Airbus A340-300 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>345</code>
+        <aircraft>Airbus A340-500 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>346</code>
+        <aircraft>Airbus A340-600 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>351</code>
+        <aircraft>Airbus A350-1000 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>358</code>
+        <aircraft>Airbus A350-800 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>359</code>
+        <aircraft>Airbus A350-900 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>380</code>
+        <aircraft>Airbus A380 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>703</code>
+        <aircraft>Boeing 707-300 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>707</code>
+        <aircraft>Boeing 707/720 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>70F</code>
+        <aircraft>Boeing 707 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>70M</code>
+        <aircraft>Boeing 707 Combi </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>717</code>
+        <aircraft>Boeing 717 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>721</code>
+        <aircraft>Boeing 727-100 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>722</code>
+        <aircraft>Boeing 727-200 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>727</code>
+        <aircraft>Boeing 727 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>72B</code>
+        <aircraft>Boeing 727-100 Mixed </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>72C</code>
+        <aircraft>Boeing 727-200 Mixed </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>72F</code>
+        <aircraft>Boeing 727 Freighter (-100/200) </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>72M</code>
+        <aircraft>Boeing 727 Combi </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>72S</code>
+        <aircraft>Boeing 727-200 Adv. </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>72X</code>
+        <aircraft>Boeing 727-100 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>72Y</code>
+        <aircraft>Boeing 727-200 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>731</code>
+        <aircraft>Boeing 737-100 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>732</code>
+        <aircraft>Boeing 737-200 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>733</code>
+        <aircraft>Boeing 737-300 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>734</code>
+        <aircraft>Boeing 737-400 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>735</code>
+        <aircraft>Boeing 737-500 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>736</code>
+        <aircraft>Boeing 737-600 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>737</code>
+        <aircraft>Boeing 737 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>738</code>
+        <aircraft>Boeing 737-800 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>739</code>
+        <aircraft>Boeing 737-900 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>73C</code>
+        <aircraft>Boeing 737-300 (winglets) </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>73F</code>
+        <aircraft>Boeing 737 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>73G</code>
+        <aircraft>Boeing 737-700 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>73H</code>
+        <aircraft>Boeing 737-800 (winglets) </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>73J</code>
+        <aircraft>Boeing 737-900 (winglets) </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>73M</code>
+        <aircraft>Boeing 737-200 Combi </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>73W</code>
+        <aircraft>Boeing 737-700 (winglets) </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>73X</code>
+        <aircraft>Boeing 737-200 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>73Y</code>
+        <aircraft>Boeing 737-300 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>741</code>
+        <aircraft>Boeing 747-100 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>742</code>
+        <aircraft>Boeing 747-200 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>743</code>
+        <aircraft>Boeing 747-300 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>744</code>
+        <aircraft>Boeing 747-400 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>747</code>
+        <aircraft>Boeing 747 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>74C</code>
+        <aircraft>Boeing 747-200 Combi </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>74D</code>
+        <aircraft>Boeing 747-300 Combi </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>74E</code>
+        <aircraft>Boeing 747-400 Combi </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>74F</code>
+        <aircraft>Boeing 747 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>74H</code>
+        <aircraft>Boeing 747-8i </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>74J</code>
+        <aircraft>Boeing 747-400 (Domestic) </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>74L</code>
+        <aircraft>Boeing 747SP </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>74M</code>
+        <aircraft>Boeing 747 Combi </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>74N</code>
+        <aircraft>Boeing 747-8F </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>74R</code>
+        <aircraft>Boeing 747SR </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>74T</code>
+        <aircraft>Boeing 747-100 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>74U</code>
+        <aircraft>Boeing 747-300 / 747-200 SUD Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>74V</code>
+        <aircraft>Boeing 747SR Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>74X</code>
+        <aircraft>Boeing 747-200 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>74Y</code>
+        <aircraft>Boeing 747-400 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>752</code>
+        <aircraft>Boeing 757-200 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>753</code>
+        <aircraft>Boeing 757-300 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>757</code>
+        <aircraft>Boeing 757 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>75F</code>
+        <aircraft>Boeing 757 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>75M</code>
+        <aircraft>Boeing 757 Mixed </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>75T</code>
+        <aircraft>Boeing 757-300 (winglets) </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>75W</code>
+        <aircraft>Boeing 757-200 (winglets) </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>762</code>
+        <aircraft>Boeing 767-200 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>763</code>
+        <aircraft>Boeing 767-300 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>764</code>
+        <aircraft>Boeing 767-400 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>767</code>
+        <aircraft>Boeing 767 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>76F</code>
+        <aircraft>Boeing 767 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>76W</code>
+        <aircraft>Boeing 767-300 (winglets) </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>76X</code>
+        <aircraft>Boeing 767-200 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>76Y</code>
+        <aircraft>Boeing 767-300 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>772</code>
+        <aircraft>Boeing 777-200 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>773</code>
+        <aircraft>Boeing 777-300 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>777</code>
+        <aircraft>Boeing 777 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>77F</code>
+        <aircraft>Boeing 777 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>77L</code>
+        <aircraft>Boeing 777-200LR </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>77W</code>
+        <aircraft>Boeing 777-300ER </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>788</code>
+        <aircraft>Boeing 787-8 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>789</code>
+        <aircraft>Boeing 787-9 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>A26</code>
+        <aircraft>Antonow / Antonov An-26 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>A28</code>
+        <aircraft>Antonow / Antonov An-28 / PZL Mielec M-28 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>A30</code>
+        <aircraft>Antonow / Antonov An-30 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>A32</code>
+        <aircraft>Antonow / Antonov An-32 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>A40</code>
+        <aircraft>Antonow / Antonov An-140 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>A4F</code>
+        <aircraft>Antonow / Antonov An-124 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>AB3</code>
+        <aircraft>Airbus A300 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>AB4</code>
+        <aircraft>Airbus A300B2/B4/C4 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>AB6</code>
+        <aircraft>Airbus A300-600 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>ABB</code>
+        <aircraft>Airbus A300-600ST Beluga </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>ABF</code>
+        <aircraft>Airbus A300F </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>ABX</code>
+        <aircraft>Airbus A300C4/F4 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>ABY</code>
+        <aircraft>Airbus A300-600F </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>ACD</code>
+        <aircraft>Rockwell Commander/Turbo Commander </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>ACP</code>
+        <aircraft>Rockwell Commander </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>AGH</code>
+        <aircraft>Agusta / AgustaWestland A-109</aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>AN4</code>
+        <aircraft>Antonow / Antonov An-24 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>AN6</code>
+        <aircraft>Antonow / Antonov An-26 / An-30 / An-32 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>AN7</code>
+        <aircraft>Antonow / Antonov An-72 / An-74 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>ANF</code>
+        <aircraft>Antonow / Antonov An-12 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>APH</code>
+        <aircraft>Eurocopter SA330 Puma / AS332 Super Puma</aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>AR1</code>
+        <aircraft>BAe Avro RJ100 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>AR7</code>
+        <aircraft>BAe Avro RJ70 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>AR8</code>
+        <aircraft>BAe Avro RJ85 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>ARJ</code>
+        <aircraft>BAe Avro RJ70 / RJ85 / RJ100 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>AT4</code>
+        <aircraft>ATR ATR 42-300 / 320 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>AT5</code>
+        <aircraft>ATR ATR 42-500 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>AT7</code>
+        <aircraft>ATR ATR 72 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>ATP</code>
+        <aircraft>BAe ATP </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>ATR</code>
+        <aircraft>ATR ATR 42 / ATR 72 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>B11</code>
+        <aircraft>BAC One Eleven </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>B12</code>
+        <aircraft>BAC One Eleven 200 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>B13</code>
+        <aircraft>BAC One Eleven 300 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>B14</code>
+        <aircraft>BAC One Eleven 400/47 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>B15</code>
+        <aircraft>BAC One Eleven 500 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>B72</code>
+        <aircraft>Boeing 720B </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>BE1</code>
+        <aircraft>Beech 1900/1900C/1900D </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>BE2</code>
+        <aircraft>Beech Beech twin piston </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>BEC</code>
+        <aircraft>Beech Beech light aircraft </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>BEH</code>
+        <aircraft>Beech 1900D </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>BEP</code>
+        <aircraft>Beech Beech singe piston </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>BES</code>
+        <aircraft>Beech 1900/1900C </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>BET</code>
+        <aircraft>Beech Beech twin turboprop </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>BH2</code>
+        <aircraft>Bell Helicopter Bell Helicopters</aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>BNI</code>
+        <aircraft>Britten Norman BN-2A/B Islander </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>BNT</code>
+        <aircraft>Britten Norman BN-2A Mk III Trislander </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CCJ</code>
+        <aircraft>Canadair Challenger </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CCX</code>
+        <aircraft>Bombardier Global Express </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CD2</code>
+        <aircraft>GAF N22B / N24A Nomad </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CL4</code>
+        <aircraft>Canadair CL-44 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CN1</code>
+        <aircraft>Cessna Cessna single piston engine </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CN2</code>
+        <aircraft>Cessna Cessna twin piston engines </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CNA</code>
+        <aircraft>Cessna Cessna light aircraft </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CNC</code>
+        <aircraft>Cessna Cessna single turboprop engine </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CNJ</code>
+        <aircraft>Cessna Citation </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CNT</code>
+        <aircraft>Cessna Cessna twin turboprop engines </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CR1</code>
+        <aircraft>Canadair CRJ 100 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CR2</code>
+        <aircraft>Canadair CRJ 200 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CR7</code>
+        <aircraft>Canadair CRJ 700 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CR9</code>
+        <aircraft>Canadair CRJ 900 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CRA</code>
+        <aircraft>Canadair CRJ 705 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CRF</code>
+        <aircraft>Canadair CRJ Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CRJ</code>
+        <aircraft>Canadair CRJ </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CRK</code>
+        <aircraft>Canadair CRJ 1000 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CRV</code>
+        <aircraft>Sud-Est SE.210 Caravelle </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CS1</code>
+        <aircraft>Bombardier CSeries CS100 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CS2</code>
+        <aircraft>CASA 212 Aviocar </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CS3</code>
+        <aircraft>Bombardier CSeries CS300 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CS5</code>
+        <aircraft>Airtech CN-235 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CV4</code>
+        <aircraft>Convair CV-440 Metropolitan </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CV5</code>
+        <aircraft>Convair CV-580 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CVF</code>
+        <aircraft>Convair CV-240 / 440 / 580 / 600 / 640 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CVR</code>
+        <aircraft>Convair CV-240 / 440 / 580 / 600 / 640 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CVV</code>
+        <aircraft>Convair CV-240 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CVX</code>
+        <aircraft>Convair CV-440 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CVY</code>
+        <aircraft>Convair CV-580 / 600 / 640 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>CWC</code>
+        <aircraft>Curtiss C-46 Commando </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D10</code>
+        <aircraft>Douglas DC-10 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D11</code>
+        <aircraft>Douglas DC-10-10/15 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D1C</code>
+        <aircraft>Douglas DC-10-30/40 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D1F</code>
+        <aircraft>Douglas DC-10 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D1M</code>
+        <aircraft>Douglas DC-10 Combi </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D1X</code>
+        <aircraft>Douglas DC-10-10 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D1Y</code>
+        <aircraft>Douglas DC-10-30 / 40 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D28</code>
+        <aircraft>Dornier Do 228 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D38</code>
+        <aircraft>Dornier Do 328 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D3F</code>
+        <aircraft>Douglas DC-3 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D6F</code>
+        <aircraft>Douglas DC-6A/B/C Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D8F</code>
+        <aircraft>Douglas DC-8 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D8L</code>
+        <aircraft>Douglas DC-8-62 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D8M</code>
+        <aircraft>Douglas DC-8 Combi </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D8Q</code>
+        <aircraft>Douglas DC-8-72 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D8T</code>
+        <aircraft>Douglas DC-8-50 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D8X</code>
+        <aircraft>Douglas DC-8-61 / 62 / 63 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D8Y</code>
+        <aircraft>Douglas DC-8-71 / 72 / 73 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D91</code>
+        <aircraft>Douglas DC-9-10 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D92</code>
+        <aircraft>Douglas DC-9-20 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D93</code>
+        <aircraft>Douglas DC-9-30 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D94</code>
+        <aircraft>Douglas DC-9-40 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D95</code>
+        <aircraft>Douglas DC-9-50 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D9C</code>
+        <aircraft>Douglas DC-9-30 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D9F</code>
+        <aircraft>Douglas DC-9 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>D9X</code>
+        <aircraft>Douglas DC-9-10 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>DC3</code>
+        <aircraft>Douglas DC-3 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>DC6</code>
+        <aircraft>Douglas DC-6A/B </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>DC8</code>
+        <aircraft>Douglas DC-8 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>DC9</code>
+        <aircraft>Douglas DC-9 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>DF2</code>
+        <aircraft>Dassault Falcon 10 / 100 / 20 / 200 / 2000 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>DF3</code>
+        <aircraft>Dassault Falcon 50 / 900 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>DFL</code>
+        <aircraft>Dassault Falcon </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>DH1</code>
+        <aircraft>De Havilland Canada DHC-8-100 Dash 8 / 8Q </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>DH2</code>
+        <aircraft>De Havilland Canada DHC-8-200 Dash 8 / 8Q </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>DH3</code>
+        <aircraft>De Havilland Canada DHC-8-300 Dash 8 / 8Q </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>DH4</code>
+        <aircraft>De Havilland Canada DHC-8-400 Dash 8Q </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>DH7</code>
+        <aircraft>De Havilland Canada DHC-7 Dash 7 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>DH8</code>
+        <aircraft>De Havilland Canada DHC-8 Dash 8 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>DHB</code>
+        <aircraft>De Havilland Canada DHC-2 Beaver / Turbo Beaver </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>DHC</code>
+        <aircraft>De Havilland Canada DHC-4 Caribou </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>DHD</code>
+        <aircraft>De Havilland DH.104 Dove </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>DHH</code>
+        <aircraft>De Havilland DH.114 Heron </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>DHL</code>
+        <aircraft>De Havilland Canada DHC-3 Turbo Otter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>DHO</code>
+        <aircraft>De Havilland Canada DHC-3 Otter / Turbo Otter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>DHP</code>
+        <aircraft>De Havilland Canada DHC-2 Beaver </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>DHR</code>
+        <aircraft>De Havilland Canada DHC-2 Turbo-Beaver </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>DHS</code>
+        <aircraft>De Havilland Canada DHC-3 Otter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>DHT</code>
+        <aircraft>De Havilland Canada DHC-6 Twin Otter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>E70</code>
+        <aircraft>EMBRAER EMB 170 / EMB 175 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>E90</code>
+        <aircraft>EMBRAER EMB 190 / EMB 195 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>EM2</code>
+        <aircraft>EMBRAER EMB 120 Brasilia </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>EMB</code>
+        <aircraft>EMBRAER EMB 110 Bandeirante </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>EMJ</code>
+        <aircraft>EMBRAER EMB 170 / EMB 190 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>ER3</code>
+        <aircraft>EMBRAER ERJ 135 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>ER4</code>
+        <aircraft>EMBRAER ERJ 145 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>ERD</code>
+        <aircraft>EMBRAER ERJ 140 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>ERJ</code>
+        <aircraft>EMBRAER ERJ 135 / ERJ 140 / ERJ 145 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>F21</code>
+        <aircraft>Fokker F28 Fellowship 1000 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>F22</code>
+        <aircraft>Fokker F28 Fellowship 2000 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>F23</code>
+        <aircraft>Fokker F28 Fellowship 3000 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>F24</code>
+        <aircraft>Fokker F28 Fellowship 4000 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>F27</code>
+        <aircraft>Fokker F27 Friendship </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>F28</code>
+        <aircraft>Fokker F28 Fellowship </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>F50</code>
+        <aircraft>Fokker 50 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>F70</code>
+        <aircraft>Fokker 70 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>FK7</code>
+        <aircraft>Fairchild-Hiller FH-227 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>FRJ</code>
+        <aircraft>Dornier 328JET </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>GRG</code>
+        <aircraft>Grumman G-21 Goose </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>GRJ</code>
+        <aircraft>Gulfstream G-1159 Gulfstream II / III / IV / V </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>GRM</code>
+        <aircraft>Gulfstream G-73 Turbo Mallard </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>GRS</code>
+        <aircraft>Gulfstream G-159 Gulfstream I </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>H25</code>
+        <aircraft>Hawker-Siddeley HS.125 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>HEC</code>
+        <aircraft>Helio H-250 Courier / H-295 / 385 Super Courier </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>HS7</code>
+        <aircraft>BAe HS.748 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>I14</code>
+        <aircraft>Ilyushin IL-114 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>I93</code>
+        <aircraft>Ilyushin IL-96-300 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>I9F</code>
+        <aircraft>Ilyushin IL-96 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>I9M</code>
+        <aircraft>Ilyushin IL-96M </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>I9X</code>
+        <aircraft>Ilyushin IL-96-300 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>I9Y</code>
+        <aircraft>Ilyushin IL-96T Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>IL6</code>
+        <aircraft>Ilyushin IL-62 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>IL7</code>
+        <aircraft>Ilyushin IL-76 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>IL8</code>
+        <aircraft>Ilyushin IL-18 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>IL9</code>
+        <aircraft>Ilyushin IL-96 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>ILW</code>
+        <aircraft>Ilyushin IL-86 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>J31</code>
+        <aircraft>BAe Jetstream 31 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>J32</code>
+        <aircraft>BAe Jetstream 32 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>J41</code>
+        <aircraft>BAe Jetstream 41 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>JST</code>
+        <aircraft>BAe Jetstream 31 / 32 / 41 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>JU5</code>
+        <aircraft>Junkers Ju 52/3M </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>L10</code>
+        <aircraft>Lockheed L-1011 Tristar </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>L11</code>
+        <aircraft>Lockheed L-1011 1 / 50 / 100 / 150 / 200 / 250 Tr </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>L15</code>
+        <aircraft>Lockheed L-1011 500 Tristar </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>L1F</code>
+        <aircraft>Lockheed L-1011 Tristar Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>L49</code>
+        <aircraft>Lockheed L-1049 Super Constellation </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>L4T</code>
+        <aircraft>LET L-410 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>LOE</code>
+        <aircraft>Lockheed L-188 Electra </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>LOF</code>
+        <aircraft>Lockheed L-188 Electra Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>LOH</code>
+        <aircraft>Lockheed L-182 / 282 / 382 (L-100) Hercules </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>LOM</code>
+        <aircraft>Lockheed L-188 Electra Mixed </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>LRJ</code>
+        <aircraft>Learjet Gates Learjet </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>M11</code>
+        <aircraft>McDonnell Douglas MD-11 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>M1F</code>
+        <aircraft>McDonnell Douglas MD-11 Freighter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>M1M</code>
+        <aircraft>McDonnell Douglas MD-11 Mixed </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>M80</code>
+        <aircraft>McDonnell Douglas MD-80 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>M81</code>
+        <aircraft>McDonnell Douglas MD-81 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>M82</code>
+        <aircraft>McDonnell Douglas MD-82 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>M83</code>
+        <aircraft>McDonnell Douglas MD-83 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>M87</code>
+        <aircraft>McDonnell Douglas MD-87 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>M88</code>
+        <aircraft>McDonnell Douglas MD-88 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>M90</code>
+        <aircraft>McDonnell Douglas MD-90 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>MBH</code>
+        <aircraft>MBB Bo 105</aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>MD9</code>
+        <aircraft>MD Helicopters MD900 Explorer</aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>MIH</code>
+        <aircraft>Mil Mi-8 / Mi-17 / Mi-171 / Mil-172</aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>MU2</code>
+        <aircraft>Mitsubishi Mu-2 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>ND2</code>
+        <aircraft>Nord / SNCAN N.262 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>NDC</code>
+        <aircraft>Aerospatiale / SNIAS SN.601 Corvette </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>NDE</code>
+        <aircraft>Eurocopter AS350 Ecureuil / AS355 Ecureuil 2</aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>NDH</code>
+        <aircraft>Eurocopter SA365C / SA365N Dauphin 2</aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>PA1</code>
+        <aircraft>Piper Piper single piston engine </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>PA2</code>
+        <aircraft>Piper Piper twin piston engines </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>PAG</code>
+        <aircraft>Piper Piper light aircraft </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>PAT</code>
+        <aircraft>Piper Piper twin turboprop engines </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>PL2</code>
+        <aircraft>Pilatus PC-12 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>PL6</code>
+        <aircraft>Pilatus PC-6 Turbo Porter </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>PN6</code>
+        <aircraft>Partenavia P.68 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>S20</code>
+        <aircraft>Saab 2000 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>S58</code>
+        <aircraft>Sikorsky S-58T</aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>S61</code>
+        <aircraft>Sikorsky S-61</aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>S76</code>
+        <aircraft>Sikorsky S-76</aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>SF3</code>
+        <aircraft>Saab SF340A/B </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>SH3</code>
+        <aircraft>Shorts SD.330 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>SH6</code>
+        <aircraft>Shorts SD.360 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>SHB</code>
+        <aircraft>Shorts SC-5 Belfast </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>SHS</code>
+        <aircraft>Shorts SC-7 Skyvan </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>SSC</code>
+        <aircraft>Aerospatiale / SNIAS Concorde </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>SWM</code>
+        <aircraft>Fairchild-Swearingen SA26 / SA226 / SA227 Metro / Merlin</aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>T20</code>
+        <aircraft>Tupolev Tu-204 / Tu-214 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>TU3</code>
+        <aircraft>Tupolev Tu-134 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>TU5</code>
+        <aircraft>Tupolev Tu-154 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>VCV</code>
+        <aircraft>Vickers Viscount </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>WWP</code>
+        <aircraft>IAI 1124 Westwind </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>YK2</code>
+        <aircraft>Yakovlev / Jakovlev Yak 42 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>YK4</code>
+        <aircraft>Yakovlev / Jakovlev Yak 40 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>YN2</code>
+        <aircraft>HAMC / Harbin Y12 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>YN7</code>
+        <aircraft>Xian Yunshuji Y7 </aircraft>
+    </iata_aircraft_codes>
+    <iata_aircraft_codes>
+    	<code>YS1</code>
+        <aircraft>NAMC YS-11 </aircraft>
+    </iata_aircraft_codes>
+</iata>
